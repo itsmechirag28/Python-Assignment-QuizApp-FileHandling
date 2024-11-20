@@ -1,0 +1,9 @@
+DSA|What is the time complexity of searching for an element in a balanced binary search tree (BST)?"|A) O(n)|B) O(logn)|C) O(1)|D) O(nlogn)|D
+DSA|Which data structure is used to implement recursion?|A) Queue|B) Array|C) Stack|D) Linked List|C
+DSA|Which algorithm is used for finding the shortest path in a weighted graph with non-negative weights?|A) Breadth-First Search(BFS)|B) Depth-First Search (DFS)|C) Kruskal's Algorithm|D) Dijkstra's Algorithm|D
+DBMS|What is the purpose of a primary key in a relational database?|A) To ensure that all records in a table are unique |B) To link two tables together|C) To allow NULL values in the table|D) To index the data in the table|A
+DBMS|Which SQL statement is used to extract data from a database?|A) GET|B) SELECT|C) EXTRACT|D) OPEN|B
+DBMS|Which of the following is NOT a DDL command?|A) CREATE|B) DROP|C) SELECT|D) ALTER|C
+Python|Which of the following is a mutable data type in Python?|A) String|B) Tuple|C) List|D) Integer|C
+Python|What is the role of indentation in Python?|A) To declare variables|B) To mark the end of a statement|C) To define the scope of loops, conditionals and functions|D) To create comments|C
+Python|Which of the following is the correct way to declare a variable in Python?|A) int x = 10|B) x = 10|C) variable x = 10|D) declare x = 10|B
